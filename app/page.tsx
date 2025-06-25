@@ -229,7 +229,7 @@ export default function HomePage() {
         <h1 className="text-4xl font-bold text-gray-800 mb-2">🎹 MIDI Player Pro</h1>
         <p className="text-gray-600 leading-relaxed">
           Upload and play your MIDI files with our advanced web-based player. 
-          Built with <a href="https://github.com/grimmdude/MidiPlayerJS" className="text-blue-600 hover:text-blue-800 underline" target="_blank" rel="noreferrer">MidiPlayerJS</a> and <a href="https://github.com/danigb/soundfont-player" className=\"text-blue-600 hover:text-blue-800 underline" target=\"_blank" rel="noreferrer">soundfont-player</a>.
+          Built with <a href="https://github.com/grimmdude/MidiPlayerJS" className="text-blue-600 hover:text-blue-800 underline" target="_blank" rel="noreferrer">MidiPlayerJS</a> and <a href="https://github.com/danigb/soundfont-player" className="text-blue-600 hover:text-blue-800 underline" target="_blank" rel="noreferrer">soundfont-player</a>.
         </p>
       </div>
 
