@@ -55,14 +55,6 @@
         "chunks": [],
         "async": false
       }
-    },
-    "(app-client)/./app/page.tsx": {
-      "*": {
-        "id": "(sc_client)/./app/page.tsx",
-        "name": "*",
-        "chunks": [],
-        "async": false
-      }
     }
   },
   "edgeSSRModuleMapping": {},
@@ -224,14 +216,6 @@
       "name": "*",
       "chunks": [
         "app-client-internals:static/chunks/app-client-internals.js"
-      ],
-      "async": false
-    },
-    "/home/project/app/page.tsx": {
-      "id": "(app-client)/./app/page.tsx",
-      "name": "*",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
       ],
       "async": false
     }
