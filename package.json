@@ -1,24 +1,26 @@
 {
-    "name": "midiplayer-pro",
-    "version": "0.1.0",
-    "private": true,
-    "scripts": {
-      "dev": "next dev",
-      "build": "next build",
-      "start": "next start"
-    },
-    "dependencies": {
-      "next": "13.4.6",
-      "react": "18.2.0",
-      "react-dom": "18.2.0",
-      "midi-player-js": "^1.1.5",
-      "soundfont-player": "^0.8.5"
-    },
-    "devDependencies": {
-      "typescript": "5.0.4",
-      "autoprefixer": "10.4.14",
-      "postcss": "8.4.24",
-      "tailwindcss": "3.3.2"
-    }
+  "name": "midiplayer-pro",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "13.4.6",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "midi-player-js": "^2.0.7",
+    "soundfont-player": "^0.12.0",
+    "@types/node": "^20.0.0",
+    "@types/react": "^18.2.0",
+    "@types/react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "typescript": "5.0.4",
+    "autoprefixer": "10.4.14",
+    "postcss": "8.4.24",
+    "tailwindcss": "3.3.2"
   }
-  
+}
